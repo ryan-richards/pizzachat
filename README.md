@@ -1,4 +1,4 @@
 # pizzachat
 
-### Cloud Firestore Chat Experiment
+### Cloud Firestore Chat Experiment iOS
 
